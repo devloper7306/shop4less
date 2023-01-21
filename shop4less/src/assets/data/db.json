@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Headphone - 1",
+      "description": "product description goes here",
+      "price": 100,
+      "is_available": true,
+      "rating": 4,
+      "review": 128,
+      "vendor_name": "seller -1",
+      "warranty": 2
+    },
+    {
+      "id": 1,
+      "name": "Headphone - 1",
+      "description": "product description goes here",
+      "product_img": "img_path",
+      "price": 100,
+      "is_available": true,
+      "rating": 4,
+      "review": 128,
+      "vendor_name": "seller -1",
+      "warranty": 2
+    }
+  ],
+  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
+  "profile": { "name": "typicode" }
+}
